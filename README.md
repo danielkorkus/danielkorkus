@@ -1,9 +1,11 @@
+<img id="header" align="center" src="https://cdn.pixabay.com/photo/2018/06/18/18/10/website-3483020_960_720.png" alt="Daniel Korkus a passionate of BI, business analysis, data science, and finance." herf="https://github.com/danielkorkus/">
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate of BI, business analysis, data science, and finance.</h3>
 
-- 🔭 I’m currently working on [music_preferences](link)
+- 🔭 I’m currently working on [music_preferences_project](link)
 
-- 🌱 I’m currently learning **pytorch, react**
+- 🌱 I’m currently learning **PyTorch, React, OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielkorkus?tab=repositories](https://github.com/danielkorkus?tab=repositories)
 
