@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate of BI, business analysis, data science, and finance.</h3>
 
-- 🔭 I’m currently working on [music_preferences_project](link)
+- 🔭 I’m currently working on [music_preferences_project](https://github.com/danielkorkus/music_preferences)
 
 - 🌱 I’m currently learning **PyTorch, React, OpenCV**
 
